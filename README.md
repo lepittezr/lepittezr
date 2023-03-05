@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello! I'm Letícia Pittezr ✨
+
+* 🎓 I'm a student at Serratec.
+* 📧 Reach me in: letsmp4@gmail.com
+
+
+
+
 
 <!--
 **lepittezr/lepittezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
